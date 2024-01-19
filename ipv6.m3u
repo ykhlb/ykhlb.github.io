@@ -105,12 +105,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",乐游
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字",游戏风云
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字",快乐垂钓
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="数字",中国教育1台
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="数字",中国教育2台
@@ -277,5 +271,9 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="坚如磐石" tvg-logo="" group-title="坚如磐石",坚如磐石
+#EXTINF:-1 tvg-id="" tvg-name="坚如磐石" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2899163239.webp" group-title="电影",坚如磐石
 https://leshiyuncdn.ahjunqin.top/20231214/YyLyY0uP/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="涉过愤怒的海" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2899573958.webp" group-title="电影",涉过愤怒的海
+https://leshiyuncdn.ahjunqin.top/20240112/9h8Yu16p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="三傻大闹宝莱坞" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p897378146.webp" group-title="电影",三傻大闹宝莱坞
+https://leshiyuncdn.ahjunqin.top/20230917/0NbqcAl5/index.m3u8
