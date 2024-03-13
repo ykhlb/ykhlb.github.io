@@ -68,7 +68,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字",黑莓电影
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视",浙江卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视",东方卫视
@@ -148,19 +148,19 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3
 #EXTINF:-1 tvg-id="B40" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视",厦门卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="N01" tvg-name="NewTV军事评论" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png" group-title="数字",NewTV军事评论
-http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-id="N02" tvg-name="NewTV军旅剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV02.png" group-title="数字",NewTV军旅剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="N05" tvg-name="NewTV家庭剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV05.png" group-title="数字",NewTV家庭剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="N07" tvg-name="NewTV中国功夫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV07.png" group-title="数字",NewTV中国功夫
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="N09" tvg-name="NewTV东北热剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV09.png" group-title="数字",NewTV东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="N10" tvg-name="NewTV惊悚悬疑" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV10.png" group-title="数字",NewTV惊悚悬疑
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="N12" tvg-name="NewTV明星大片" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV12.png" group-title="数字",NewTV明星大片
-http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="N13" tvg-name="NewTV欢乐剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV13.png" group-title="数字",NewTV欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="N15" tvg-name="NewTV潮妈辣婆" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV15.png" group-title="数字",NewTV潮妈辣婆
@@ -168,9 +168,9 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="N16" tvg-name="NewTV炫舞未来" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV16.png" group-title="数字",NewTV炫舞未来
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 #EXTINF:-1 tvg-id="N18" tvg-name="NewTV精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV18.png" group-title="数字",NewTV精品体育
-http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="N19" tvg-name="NewTV精品大剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV19.png" group-title="数字",NewTV精品大剧
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="N23" tvg-name="NewTV超级电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV23.png" group-title="数字",NewTV超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="N24" tvg-name="NewTV超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="数字",NewTV超级综艺
