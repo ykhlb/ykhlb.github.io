@@ -40,7 +40,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png",江苏卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225613/2.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png",安徽卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
@@ -188,4 +188,4 @@ http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787831-1423787831-611512217
 #EXTINF:-1 tvg-name="林正英电影" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.0ae79dbc430303ae37ec3319cffbf2fc?rik=9RrCEDmpY8qvlQ&riu=http%3a%2f%2fpuui.qpic.cn%2fvcover_vt_pic%2f0%2f6nszx1gt6yvu3b61558324760%2f0&ehk=BazSKIAB1FBuixtbcgipkct61eI0GGc8kj1rNI9cfBo%3d&risl=&pid=ImgRaw&r=0",林正英电影
 http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2325129230.webp",爱情公寓
-http://182.40.120.216/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
