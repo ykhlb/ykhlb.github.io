@@ -59,39 +59,39 @@ http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="" tvg-name="兵团卫视" tvg-logo="https://livecdn.zbds.org/logo/兵团卫视.png" epg-url="https://epg.zbds.top",兵团卫视
 http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-1" tvg-logo="https://livecdn.zbds.org/logo/CCTV-1综合.png" epg-url="https://epg.zbds.top",CCTV-1综合
+#EXTINF:-1 group-title="" tvg-name="CCTV-1" tvg-logo="https://livecdn.zbds.org/logo/CCTV-1.png" epg-url="https://epg.zbds.top",CCTV-1
 http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-2" tvg-logo="https://livecdn.zbds.org/logo/CCTV-2财经.png" epg-url="https://epg.zbds.top",CCTV-2财经
+#EXTINF:-1 group-title="" tvg-name="CCTV-2" tvg-logo="https://livecdn.zbds.org/logo/CCTV-2.png" epg-url="https://epg.zbds.top",CCTV-2
 http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-3" tvg-logo="https://livecdn.zbds.org/logo/CCTV-3综艺.png" epg-url="https://epg.zbds.top",CCTV-3综艺
+#EXTINF:-1 group-title="" tvg-name="CCTV-3" tvg-logo="https://livecdn.zbds.org/logo/CCTV-3.png" epg-url="https://epg.zbds.top",CCTV-3
 http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-4" tvg-logo="https://livecdn.zbds.org/logo/CCTV-4中文国际.png" epg-url="https://epg.zbds.top",CCTV-4中文国际
+#EXTINF:-1 group-title="" tvg-name="CCTV-4" tvg-logo="https://livecdn.zbds.org/logo/CCTV-4.png" epg-url="https://epg.zbds.top",CCTV-4
 http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-5" tvg-logo="https://livecdn.zbds.org/logo/CCTV-5体育.png" epg-url="https://epg.zbds.top",CCTV-5体育
+#EXTINF:-1 group-title="" tvg-name="CCTV-5" tvg-logo="https://livecdn.zbds.org/logo/CCTV-5.png" epg-url="https://epg.zbds.top",CCTV-5
 http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-5+" tvg-logo="https://livecdn.zbds.org/logo/CCTV-5+体育赛事.png" epg-url="https://epg.zbds.top",CCTV-5+体育赛事
+#EXTINF:-1 group-title="" tvg-name="CCTV-5+" tvg-logo="https://livecdn.zbds.org/logo/CCTV-5+.png" epg-url="https://epg.zbds.top",CCTV-5+
 http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-6" tvg-logo="https://livecdn.zbds.org/logo/CCTV-6电影.png" epg-url="https://epg.zbds.top",CCTV-6电影
+#EXTINF:-1 group-title="" tvg-name="CCTV-6" tvg-logo="https://livecdn.zbds.org/logo/CCTV-6.png" epg-url="https://epg.zbds.top",CCTV-6
 http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-7" tvg-logo="https://livecdn.zbds.org/logo/CCTV-7国防军事.png" epg-url="https://epg.zbds.top",CCTV-7国防军事
+#EXTINF:-1 group-title="" tvg-name="CCTV-7" tvg-logo="https://livecdn.zbds.org/logo/CCTV-7.png" epg-url="https://epg.zbds.top",CCTV-7
 http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-8" tvg-logo="https://livecdn.zbds.org/logo/CCTV-8电视剧.png" epg-url="https://epg.zbds.top",CCTV-8电视剧
+#EXTINF:-1 group-title="" tvg-name="CCTV-8" tvg-logo="https://livecdn.zbds.org/logo/CCTV-8.png" epg-url="https://epg.zbds.top",CCTV-8
 http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-9" tvg-logo="https://livecdn.zbds.org/logo/CCTV-9纪录.png" epg-url="https://epg.zbds.top",CCTV-9纪录
+#EXTINF:-1 group-title="" tvg-name="CCTV-9" tvg-logo="https://livecdn.zbds.org/logo/CCTV-9.png" epg-url="https://epg.zbds.top",CCTV-9
 http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-10" tvg-logo="https://livecdn.zbds.org/logo/CCTV-10科教.png" epg-url="https://epg.zbds.top",CCTV-10科教
+#EXTINF:-1 group-title="" tvg-name="CCTV-10" tvg-logo="https://livecdn.zbds.org/logo/CCTV-10.png" epg-url="https://epg.zbds.top",CCTV-10
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-11" tvg-logo="https://livecdn.zbds.org/logo/CCTV-11戏曲.png" epg-url="https://epg.zbds.top",CCTV-11戏曲
+#EXTINF:-1 group-title="" tvg-name="CCTV-11" tvg-logo="https://livecdn.zbds.org/logo/CCTV-11.png" epg-url="https://epg.zbds.top",CCTV-11
 http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-12" tvg-logo="https://livecdn.zbds.org/logo/CCTV-12社会与法.png" epg-url="https://epg.zbds.top",CCTV-12社会与法
+#EXTINF:-1 group-title="" tvg-name="CCTV-12" tvg-logo="https://livecdn.zbds.org/logo/CCTV-12.png" epg-url="https://epg.zbds.top",CCTV-12
 http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-13" tvg-logo="https://livecdn.zbds.org/logo/CCTV-13新闻.png" epg-url="https://epg.zbds.top",CCTV-13新闻
+#EXTINF:-1 group-title="" tvg-name="CCTV-13" tvg-logo="https://livecdn.zbds.org/logo/CCTV-13.png" epg-url="https://epg.zbds.top",CCTV-13
 http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-14" tvg-logo="https://livecdn.zbds.org/logo/CCTV-14少儿.png" epg-url="https://epg.zbds.top",CCTV-14少儿
+#EXTINF:-1 group-title="" tvg-name="CCTV-14" tvg-logo="https://livecdn.zbds.org/logo/CCTV-14.png" epg-url="https://epg.zbds.top",CCTV-14
 http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-15" tvg-logo="https://livecdn.zbds.org/logo/CCTV-15音乐.png" epg-url="https://epg.zbds.top",CCTV-15音乐
+#EXTINF:-1 group-title="" tvg-name="CCTV-15" tvg-logo="https://livecdn.zbds.org/logo/CCTV-15.png" epg-url="https://epg.zbds.top",CCTV-15
 http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-16" tvg-logo="https://livecdn.zbds.org/logo/CCTV-16奥林匹克.png" epg-url="https://epg.zbds.top",CCTV-16奥林匹克
+#EXTINF:-1 group-title="" tvg-name="CCTV-16" tvg-logo="https://livecdn.zbds.org/logo/CCTV-16.png" epg-url="https://epg.zbds.top",CCTV-16
 http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="" tvg-name="CCTV-17" tvg-logo="https://livecdn.zbds.org/logo/CCTV-17农业农村.png" epg-url="https://epg.zbds.top",CCTV-17农业农村
+#EXTINF:-1 group-title="" tvg-name="CCTV-17" tvg-logo="https://livecdn.zbds.org/logo/CCTV-17.png" epg-url="https://epg.zbds.top",CCTV-17
 http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
