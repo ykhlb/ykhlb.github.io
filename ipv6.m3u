@@ -10,7 +10,7 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031102/1.m3u8?chan
 #EXTINF:-1 group-title="" tvg-name="CCTV5" tvg-logo="https://livecdn.zbds.org/logo/CCTV5.png" epg-url="https://epg.zbds.top",CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 group-title="" tvg-name="CCTV5+" tvg-logo="https://livecdn.zbds.org/logo/CCTV5+.png" epg-url="https://epg.zbds.top",CCTV5+
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031127/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=m
+http://t198.top/hs/migu.php?id=cctv5p
 #EXTINF:-1 group-title="" tvg-name="CCTV6" tvg-logo="https://livecdn.zbds.org/logo/CCTV6.png" epg-url="https://epg.zbds.top",CCTV6
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000008886/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=m
 #EXTINF:-1 group-title="" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
@@ -34,7 +34,7 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031109/1.m3u8?chan
 #EXTINF:-1 group-title="" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000008000023253/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=m
 #EXTINF:-1 group-title="" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="https://epg.zbds.top",CCTV17
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288014/1.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=m
+http://t198.top/hs/migu.php?id=cctv17
 #EXTINF:-1 group-title="" tvg-name="CCTV4K" tvg-logo="https://livecdn.zbds.org/logo/CCTV4K.png" epg-url="https://epg.zbds.top",CCTV4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 #EXTINF:-1 group-title="" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
